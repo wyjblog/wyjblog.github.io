@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wyj.pub/"/>
-  <updated>2016-04-26T07:20:07.000Z</updated>
+  <updated>2016-04-26T07:48:04.000Z</updated>
   <id>http://blog.wyj.pub/</id>
   
   <author>
@@ -16,11 +16,11 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>abc</title>
-    <link href="http://blog.wyj.pub/2016/04/26/abc-2/"/>
-    <id>http://blog.wyj.pub/2016/04/26/abc-2/</id>
-    <published>2016-04-26T07:20:07.000Z</published>
-    <updated>2016-04-26T07:20:07.000Z</updated>
+    <title>a</title>
+    <link href="http://blog.wyj.pub/2016/04/26/a/"/>
+    <id>http://blog.wyj.pub/2016/04/26/a/</id>
+    <published>2016-04-26T07:45:40.000Z</published>
+    <updated>2016-04-26T07:48:04.000Z</updated>
     
     <content type="html"></content>
     
@@ -34,145 +34,6 @@
     
     
       <category term="default" scheme="http://blog.wyj.pub/tags/default/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>cc</title>
-    <link href="http://blog.wyj.pub/2016/04/26/cc/"/>
-    <id>http://blog.wyj.pub/2016/04/26/cc/</id>
-    <published>2016-04-26T06:59:06.000Z</published>
-    <updated>2016-04-26T06:59:06.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-      default
-    
-    </summary>
-    
-      <category term="default" scheme="http://blog.wyj.pub/categories/default/"/>
-    
-    
-      <category term="default" scheme="http://blog.wyj.pub/tags/default/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>aba</title>
-    <link href="http://blog.wyj.pub/2016/04/26/aba/"/>
-    <id>http://blog.wyj.pub/2016/04/26/aba/</id>
-    <published>2016-04-26T06:57:18.000Z</published>
-    <updated>2016-04-26T06:57:26.000Z</updated>
-    
-    <content type="html">&lt;p&gt;adsada&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      default
-    
-    </summary>
-    
-      <category term="default" scheme="http://blog.wyj.pub/categories/default/"/>
-    
-    
-      <category term="default" scheme="http://blog.wyj.pub/tags/default/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>abc</title>
-    <link href="http://blog.wyj.pub/2016/04/26/abc/"/>
-    <id>http://blog.wyj.pub/2016/04/26/abc/</id>
-    <published>2016-04-26T06:50:12.000Z</published>
-    <updated>2016-04-26T06:50:12.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-      desc
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="http://blog.wyj.pub/2016/04/25/hello-world/"/>
-    <id>http://blog.wyj.pub/2016/04/25/hello-world/</id>
-    <published>2016-04-25T08:10:39.000Z</published>
-    <updated>2016-04-26T06:41:27.000Z</updated>
-    
-    <content type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;documentation&lt;/a&gt; for more info. If you get any problems when using Hexo, you can find the answer in &lt;a href=&quot;https://hexo.io/docs/troubleshooting.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;troubleshooting&lt;/a&gt; or you can ask me on &lt;a href=&quot;https://github.com/hexojs/hexo/issues&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-&lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo new &lt;span class=&quot;string&quot;&gt;&quot;My New Post&quot;&lt;/span&gt;&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/writing.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Writing&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Run-server&quot;&gt;&lt;a href=&quot;#Run-server&quot; class=&quot;headerlink&quot; title=&quot;Run server&quot;&gt;&lt;/a&gt;Run server&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo server&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/server.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Server&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Generate-static-files&quot;&gt;&lt;a href=&quot;#Generate-static-files&quot; class=&quot;headerlink&quot; title=&quot;Generate static files&quot;&gt;&lt;/a&gt;Generate static files&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo generate&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/generating.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Generating&lt;/a&gt;&lt;/p&gt;
-&lt;h3 id=&quot;Deploy-to-remote-sites&quot;&gt;&lt;a href=&quot;#Deploy-to-remote-sites&quot; class=&quot;headerlink&quot; title=&quot;Deploy to remote sites&quot;&gt;&lt;/a&gt;Deploy to remote sites&lt;/h3&gt;&lt;figure class=&quot;highlight bash&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;$ hexo deploy&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;More info: &lt;a href=&quot;https://hexo.io/docs/deployment.html&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;Deployment&lt;/a&gt;&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      1
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>Hexo博客搭建教程</title>
-    <link href="http://blog.wyj.pub/2016/01/07/a/"/>
-    <id>http://blog.wyj.pub/2016/01/07/a/</id>
-    <published>2016-01-07T05:35:25.000Z</published>
-    <updated>2016-04-25T11:02:58.000Z</updated>
-    
-    <content type="html">&lt;p&gt;dsa&lt;br&gt;dsa&lt;br&gt;d&lt;br&gt;sad&lt;br&gt;sad&lt;br&gt;sa&lt;br&gt;dsa&lt;br&gt;d&lt;br&gt;sa&lt;br&gt;das&lt;br&gt;d&lt;br&gt;sa&lt;br&gt;das&lt;/p&gt;
-&lt;p&gt;asd&lt;br&gt;asd&lt;br&gt;sa&lt;br&gt;dsa&lt;br&gt;dsa&lt;br&gt;d&lt;br&gt;sad&lt;br&gt;sa&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br &lt;br=&quot;&quot;&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&amp;lt;br/&lt;/p&gt;
-</content>
-    
-    <summary type="html">
-    
-      这是一篇用Hexo搭建博客的教程(基于windows环境)，不是最详尽的，但我想应该是最简单易懂的
-    
-    </summary>
-    
-      <category term="blog" scheme="http://blog.wyj.pub/categories/blog/"/>
-    
-    
-      <category term="博客搭建" scheme="http://blog.wyj.pub/tags/%E5%8D%9A%E5%AE%A2%E6%90%AD%E5%BB%BA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>使用Hexo搭建个人博客</title>
-    <link href="http://blog.wyj.pub/2014/03/03/abc-1/"/>
-    <id>http://blog.wyj.pub/2014/03/03/abc-1/</id>
-    <published>2014-03-03T11:07:43.000Z</published>
-    <updated>2016-04-26T06:55:02.000Z</updated>
-    
-    <content type="html"></content>
-    
-    <summary type="html">
-    
-      生命在于折腾，又把博客折腾到Hexo了。给Hexo点赞。
-    
-    </summary>
-    
-      <category term="Blog" scheme="http://blog.wyj.pub/categories/Blog/"/>
-    
-    
-      <category term="Hexo" scheme="http://blog.wyj.pub/tags/Hexo/"/>
-    
-      <category term="g2" scheme="http://blog.wyj.pub/tags/g2/"/>
     
   </entry>
   
