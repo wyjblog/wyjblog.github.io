@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>翁英健!</title>
+  <subtitle>啊</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://blog.wyj.pub/"/>
+  <updated>2016-04-26T08:15:18.000Z</updated>
+  <id>http://blog.wyj.pub/</id>
+  
+  <author>
+    <name>翁英健</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://blog.wyj.pub/2016/04/26/hello-world/"/>
+    <id>http://blog.wyj.pub/2016/04/26/hello-world/</id>
+    <published>2016-04-26T08:04:22.000Z</published>
+    <updated>2016-04-26T08:15:18.000Z</updated>
+    
+    <content type="html"></content>
+    
+    <summary type="html">
+    
+      123
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
