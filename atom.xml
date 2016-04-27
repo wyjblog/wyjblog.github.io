@@ -42,7 +42,7 @@
     <link href="http://blog.wyj.pub/2016/04/26/interview-2016/"/>
     <id>http://blog.wyj.pub/2016/04/26/interview-2016/</id>
     <published>2016-04-26T08:38:47.000Z</published>
-    <updated>2016-04-27T05:46:00.000Z</updated>
+    <updated>2016-04-27T07:46:56.000Z</updated>
     
     <content type="html">&lt;h2 id=&quot;理论部分&quot;&gt;&lt;a href=&quot;#理论部分&quot; class=&quot;headerlink&quot; title=&quot;理论部分&quot;&gt;&lt;/a&gt;理论部分&lt;/h2&gt;&lt;h3 id=&quot;光环&quot;&gt;&lt;a href=&quot;#光环&quot; class=&quot;headerlink&quot; title=&quot;光环&quot;&gt;&lt;/a&gt;光环&lt;/h3&gt;&lt;p&gt;“程序员是最不靠爹的职业”，的确是这样。  &lt;/p&gt;
 &lt;p&gt;但是我之前认为的“程序员完全靠技术吃饭”，现在看来，也是极其不靠谱的。  &lt;/p&gt;
@@ -72,13 +72,35 @@
 &lt;h3 id=&quot;换位思考&quot;&gt;&lt;a href=&quot;#换位思考&quot; class=&quot;headerlink&quot; title=&quot;换位思考&quot;&gt;&lt;/a&gt;换位思考&lt;/h3&gt;&lt;p&gt;这无疑是求职乃至为人处事的大杀技。  &lt;/p&gt;
 &lt;p&gt;这话最早是听初中班主任说的，不是马云。  &lt;/p&gt;
 &lt;h4 id=&quot;How-To-Use&quot;&gt;&lt;a href=&quot;#How-To-Use&quot; class=&quot;headerlink&quot; title=&quot;How To Use&quot;&gt;&lt;/a&gt;How To Use&lt;/h4&gt;&lt;p&gt;If I were you, …&lt;/p&gt;
-&lt;h4 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h4&gt;&lt;p&gt;1.假装我是hr，要想我的简历不被pass，简历该怎么写。&lt;br&gt;2.假装我是面试官，要想通过，应该具备怎样的素质，或者是应该怎样表现。&lt;br&gt;3.假装我是hr，谈薪资，以及谈个人情况的时候应该怎么会说。  &lt;/p&gt;
-&lt;p&gt;最好是自己领悟，后面我也会分享一些自己的经验。  &lt;/p&gt;
-&lt;h2 id=&quot;干货&quot;&gt;&lt;a href=&quot;#干货&quot; class=&quot;headerlink&quot; title=&quot;干货&quot;&gt;&lt;/a&gt;干货&lt;/h2&gt;&lt;h3 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot; title=&quot;简历&quot;&gt;&lt;/a&gt;简历&lt;/h3&gt;&lt;h4 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h4&gt;&lt;p&gt;1.简历是给先hr看的，所以要先保证简历能过。&lt;br&gt;2.简历是面试的根据，所以不要造假，或者说不要给自己留坑。  &lt;/p&gt;
-&lt;h4 id=&quot;Tips&quot;&gt;&lt;a href=&quot;#Tips&quot; class=&quot;headerlink&quot; title=&quot;Tips&quot;&gt;&lt;/a&gt;Tips&lt;/h4&gt;&lt;h3 id=&quot;技术面试&quot;&gt;&lt;a href=&quot;#技术面试&quot; class=&quot;headerlink&quot; title=&quot;技术面试&quot;&gt;&lt;/a&gt;技术面试&lt;/h3&gt;&lt;p&gt;推荐书单&lt;/p&gt;
-&lt;h3 id=&quot;非技术面试&quot;&gt;&lt;a href=&quot;#非技术面试&quot; class=&quot;headerlink&quot; title=&quot;非技术面试&quot;&gt;&lt;/a&gt;非技术面试&lt;/h3&gt;&lt;p&gt;你为何从上一家公司离职？&lt;/p&gt;
+&lt;h4 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h4&gt;&lt;p&gt;1.假装我是hr，怎么样的简历不会被pass，甚至说怎么样的简历会眼前一亮。&lt;br&gt;2.假装我是面试官，具备怎样素质的人我会给他通过，甚至会跟上级说他的好话。&lt;br&gt;3.假装我是hr，谈薪资，以及谈个人情况的时候，什么情况会让我不再考虑这个人。  &lt;/p&gt;
+&lt;p&gt;自己领悟，后面也会分享一些自己的经验。  &lt;/p&gt;
+&lt;h2 id=&quot;干货&quot;&gt;&lt;a href=&quot;#干货&quot; class=&quot;headerlink&quot; title=&quot;干货&quot;&gt;&lt;/a&gt;干货&lt;/h2&gt;&lt;h3 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot; title=&quot;简历&quot;&gt;&lt;/a&gt;简历&lt;/h3&gt;&lt;h4 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;真实的经历：&lt;/strong&gt;&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Q:你有什么要问的吗？&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;A:能不能评价一下我？&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Q:看你的简历很不错，现在看来，也还行，跟杭电的学生也差不多，中等...偏上吧。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;&lt;strong&gt;基本原则：&lt;/strong&gt;  &lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;不被Hr（非技术人员）挂掉。  &lt;/li&gt;
+&lt;li&gt;不给面试的时候留坑（不造假）。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&quot;Tips&quot;&gt;&lt;a href=&quot;#Tips&quot; class=&quot;headerlink&quot; title=&quot;Tips&quot;&gt;&lt;/a&gt;Tips&lt;/h4&gt;&lt;ol&gt;
+&lt;li&gt;简洁：我用&lt;code&gt;MarkDown&lt;/code&gt;写的，勉强还能装下逼，但是到现在，我的简历也是一页半。    &lt;/li&gt;
+&lt;li&gt;小问题：错别字，专业名词大小写等。  &lt;/li&gt;
+&lt;li&gt;内容：可以稍微吹下牛逼，但是吹出去的牛逼在面试的时候都得还。  &lt;/li&gt;
+&lt;li&gt;垃圾信息：照片就用放了，自我评价也懒得写了，搭不上边的经历也不要往上放。  &lt;/li&gt;
+&lt;li&gt;亮点：Blog/Github，牛逼的经历、项目、获奖。所以说牛逼的简历还得靠牛逼的能力支撑。  &lt;/li&gt;
+&lt;/ol&gt;
+&lt;!--针对第一点：就是要非技术人员看完了有不明觉厉的感觉。  
+我自己的简历
+
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1.Blog/Github/Gmail邮箱一通个放。&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2.在公司一个人负责多个项目，Balabala...&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;针对第二点：那就要往自己的强项写了，到时候面试再往上面引。&lt;br&gt;比如看过Spring源代码可以放上去，熟悉Redis/Mq可以放上去，熟悉线程/高并发可以放上去，分布式啥的只要自己能够驾驭的住放上去就是了。。&lt;br&gt;还有我的简历&lt;code&gt;MarkDown&lt;/code&gt;写的，懂的都懂。 &lt;/p&gt;
+&lt;p&gt;针对第三点：&lt;br&gt;照片的问题，反正我不放。&lt;br&gt;有句话怎么说的，“看照片会让你以为我技术不行”，“漂亮的不像实力派”。&lt;br&gt;扯远了。。。&lt;br&gt;还有就是学校表现、获奖情况啥的，搞技术的，除了ACM获奖其他基本也没啥可写的吧。&lt;br&gt;我是自我评价都懒得写。&lt;br&gt;–&amp;gt;&lt;/p&gt;
+&lt;h3 id=&quot;技术面试&quot;&gt;&lt;a href=&quot;#技术面试&quot; class=&quot;headerlink&quot; title=&quot;技术面试&quot;&gt;&lt;/a&gt;技术面试&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;需求分析：&lt;/strong&gt;面试官在选择未来的同事/下属&lt;br&gt;&lt;strong&gt;换位思考：&lt;/strong&gt;技术差，不要；理解能力差，不要；表达能力差，不要；说话让人不舒服，不要。  但是你有某方面很牛逼，如果我们需要，那就考虑，如果我们不需要，还是不要（你牛逼你的，我又用不到）。    &lt;/p&gt;
+&lt;h4 id=&quot;必备的技能&quot;&gt;&lt;a href=&quot;#必备的技能&quot; class=&quot;headerlink&quot; title=&quot;必备的技能&quot;&gt;&lt;/a&gt;必备的技能&lt;/h4&gt;&lt;p&gt;像Java开发，我可以稍微谈谈一些技能。&lt;/p&gt;
+&lt;p&gt;给个需求能否自己实现？数据库、程序设计。&lt;br&gt;能否做好，效率如何？数据结构的选择与实用。&lt;br&gt;如何应为未来的扩展？设计原则、设计模式Balabal…&lt;br&gt;并发问题？包括对操作系统、线程的认知，通用的解决方案（如各种锁），以及处理方案的选择，像缓存，队列。  &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;举个例子：&lt;/strong&gt;100件商品，如何控制不超卖。&lt;br&gt;首先是解决方案，可以用数据库锁。&lt;br&gt;再找到初级方案的瓶颈，改用其它解决方案，如缓存、队列。&lt;br&gt;想想有没有奇淫的技巧，反正我是比较愚钝，所以只能多看书，窃用人家的解决方案。  &lt;/p&gt;
+&lt;h3 id=&quot;非技术面试&quot;&gt;&lt;a href=&quot;#非技术面试&quot; class=&quot;headerlink&quot; title=&quot;非技术面试&quot;&gt;&lt;/a&gt;非技术面试&lt;/h3&gt;&lt;p&gt;为何从上一家公司离职？&lt;/p&gt;
 &lt;p&gt;个人经历，感兴趣的话，也可以接着往下看&lt;/p&gt;
-&lt;h2 id=&quot;面试经历&quot;&gt;&lt;a href=&quot;#面试经历&quot; class=&quot;headerlink&quot; title=&quot;面试经历&quot;&gt;&lt;/a&gt;面试经历&lt;/h2&gt;&lt;h3 id=&quot;15年实习生面试&quot;&gt;&lt;a href=&quot;#15年实习生面试&quot; class=&quot;headerlink&quot; title=&quot;15年实习生面试&quot;&gt;&lt;/a&gt;15年实习生面试&lt;/h3&gt;&lt;h3 id=&quot;15年大公司秋招&quot;&gt;&lt;a href=&quot;#15年大公司秋招&quot; class=&quot;headerlink&quot; title=&quot;15年大公司秋招&quot;&gt;&lt;/a&gt;15年大公司秋招&lt;/h3&gt;&lt;h3 id=&quot;15年小公司面试&quot;&gt;&lt;a href=&quot;#15年小公司面试&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h3&gt;&lt;h3 id=&quot;16年小公司春招&quot;&gt;&lt;a href=&quot;#16年小公司春招&quot; class=&quot;headerlink&quot; title=&quot;16年小公司春招&quot;&gt;&lt;/a&gt;16年小公司春招&lt;/h3&gt;&lt;h3 id=&quot;16年大公司补招&quot;&gt;&lt;a href=&quot;#16年大公司补招&quot; class=&quot;headerlink&quot; title=&quot;16年大公司补招&quot;&gt;&lt;/a&gt;16年大公司补招&lt;/h3&gt;</content>
+&lt;h2 id=&quot;面试经历&quot;&gt;&lt;a href=&quot;#面试经历&quot; class=&quot;headerlink&quot; title=&quot;面试经历&quot;&gt;&lt;/a&gt;面试经历&lt;/h2&gt;&lt;h3 id=&quot;15年实习生面试&quot;&gt;&lt;a href=&quot;#15年实习生面试&quot; class=&quot;headerlink&quot; title=&quot;15年实习生面试&quot;&gt;&lt;/a&gt;15年实习生面试&lt;/h3&gt;&lt;h3 id=&quot;15年大公司秋招&quot;&gt;&lt;a href=&quot;#15年大公司秋招&quot; class=&quot;headerlink&quot; title=&quot;15年大公司秋招&quot;&gt;&lt;/a&gt;15年大公司秋招&lt;/h3&gt;&lt;h3 id=&quot;15年小公司面试&quot;&gt;&lt;a href=&quot;#15年小公司面试&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h3&gt;&lt;h3 id=&quot;16年小公司春招&quot;&gt;&lt;a href=&quot;#16年小公司春招&quot; class=&quot;headerlink&quot; title=&quot;16年小公司春招&quot;&gt;&lt;/a&gt;16年小公司春招&lt;/h3&gt;&lt;h3 id=&quot;16年大公司补招&quot;&gt;&lt;a href=&quot;#16年大公司补招&quot; class=&quot;headerlink&quot; title=&quot;16年大公司补招&quot;&gt;&lt;/a&gt;16年大公司补招&lt;/h3&gt;--&gt;</content>
     
     <summary type="html">
     
