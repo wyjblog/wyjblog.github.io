@@ -42,9 +42,43 @@
     <link href="http://blog.wyj.pub/2016/04/26/interview-2016/"/>
     <id>http://blog.wyj.pub/2016/04/26/interview-2016/</id>
     <published>2016-04-26T08:38:47.000Z</published>
-    <updated>2016-04-26T08:47:56.000Z</updated>
+    <updated>2016-04-27T05:46:00.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;h2 id=&quot;理论部分&quot;&gt;&lt;a href=&quot;#理论部分&quot; class=&quot;headerlink&quot; title=&quot;理论部分&quot;&gt;&lt;/a&gt;理论部分&lt;/h2&gt;&lt;h3 id=&quot;光环&quot;&gt;&lt;a href=&quot;#光环&quot; class=&quot;headerlink&quot; title=&quot;光环&quot;&gt;&lt;/a&gt;光环&lt;/h3&gt;&lt;p&gt;“程序员是最不靠爹的职业”，的确是这样。  &lt;/p&gt;
+&lt;p&gt;但是我之前认为的“程序员完全靠技术吃饭”，现在看来，也是极其不靠谱的。  &lt;/p&gt;
+&lt;p&gt;光环是很大一个因素，决定着简历是否能通过、面试官心里的定位、薪资甚至是在新公司的说服力。  &lt;/p&gt;
+&lt;p&gt;就算不当程序员，创业去了，拉投资的时候投资人还会看学历、经历等，再综合评估这个人是否靠谱。  &lt;/p&gt;
+&lt;p&gt;退一万步讲，以后出去吹牛逼的时候，光环都是有用的.&lt;/p&gt;
+&lt;h4 id=&quot;学历光环&quot;&gt;&lt;a href=&quot;#学历光环&quot; class=&quot;headerlink&quot; title=&quot;学历光环&quot;&gt;&lt;/a&gt;学历光环&lt;/h4&gt;&lt;p&gt;主要针对应届生  &lt;/p&gt;
+&lt;p&gt;本科/硕士有区别，名校/非名校有区别。  &lt;/p&gt;
+&lt;p&gt;已经过去的，由它。  &lt;/p&gt;
+&lt;h4 id=&quot;经验光环&quot;&gt;&lt;a href=&quot;#经验光环&quot; class=&quot;headerlink&quot; title=&quot;经验光环&quot;&gt;&lt;/a&gt;经验光环&lt;/h4&gt;&lt;p&gt;应届毕业生和有工作经验的人就是不一样的。&lt;br&gt;这是应届毕业生面试小公司最蛋疼的一点，我自己也深有体会。&lt;br&gt;自以为一年多的努力胜过两年工作经验的同行，然后现实很残酷，你只能“被认为“不如他们。  &lt;/p&gt;
+&lt;p&gt;公司的原因：无法看出一个人的能力，那么就从工作经验去衡量。&lt;br&gt;这无疑是一种保险的方法。&lt;br&gt;但同样工作经验的人，每天下班后玩游戏还是充电，差距也是很大的。  &lt;/p&gt;
+&lt;p&gt;自己的原因：毕竟应届生，等多年以后再回来看自知孰是孰非。&lt;br&gt;也许是我的经历比较特殊，没毕业出去实习，加上拼命的学习。&lt;br&gt;当然，更可能是我不知天高地厚。  &lt;/p&gt;
+&lt;h4 id=&quot;大公司光环&quot;&gt;&lt;a href=&quot;#大公司光环&quot; class=&quot;headerlink&quot; title=&quot;大公司光环&quot;&gt;&lt;/a&gt;大公司光环&lt;/h4&gt;&lt;p&gt;大公司出来的确会不一样。&lt;br&gt;多年以后，就跟当年应届生看学历一样。  &lt;/p&gt;
+&lt;p&gt;反正以后我的光环不会太差，whatever&lt;/p&gt;
+&lt;h3 id=&quot;需求分析&quot;&gt;&lt;a href=&quot;#需求分析&quot; class=&quot;headerlink&quot; title=&quot;需求分析&quot;&gt;&lt;/a&gt;需求分析&lt;/h3&gt;&lt;p&gt;招聘就好比是买卖，我们要做的就是想办法把自己‘卖’出去。  &lt;/p&gt;
+&lt;p&gt;有的单位穷，想要买一批廉价的，能干活就行的程序员。&lt;br&gt;有的单位也穷，但是讲点情怀，想要高价买几个能力强的程序员。&lt;br&gt;有的单位有钱，经常高价批发程序员，所以制度完善，层层选拔。   &lt;/p&gt;
+&lt;p&gt;所以说，看需求。&lt;br&gt;你那么牛逼，可是人家不需要，人家就差一个会写代码的了，会写代码就成。  &lt;/p&gt;
+&lt;h4 id=&quot;小练习&quot;&gt;&lt;a href=&quot;#小练习&quot; class=&quot;headerlink&quot; title=&quot;小练习&quot;&gt;&lt;/a&gt;小练习&lt;/h4&gt;&lt;p&gt;某用人单位缺少程序员战斗力100点，现有以下属性的程序员三种，其中应届生的普通与牛逼难以分辨，请分配最好的方案。    &lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;普通应届生.工资 = 800&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;牛逼应届生.工资 = 1100&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;经验程序员.工资 = 1200&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;普通应届生.能力 = 60&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;牛逼应届生.能力 = 100&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;经验程序员.能力 = 90&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;要我选？&lt;br&gt;如果是招人是我的工作，我会花1200去招一个90战斗力的老程序员。  &lt;/li&gt;
+&lt;li&gt;为什么？&lt;br&gt;风险低。&lt;/li&gt;
+&lt;li&gt;剩下的10点怎么补？&lt;br&gt;当然是加班啦！（自带高级黑）  &lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&quot;需求小结&quot;&gt;&lt;a href=&quot;#需求小结&quot; class=&quot;headerlink&quot; title=&quot;需求小结&quot;&gt;&lt;/a&gt;需求小结&lt;/h4&gt;&lt;p&gt;合适的人找合适的工作。  &lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;你的薪资 != 你的价值&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;你的薪资 == 你对公司的作用&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;h3 id=&quot;换位思考&quot;&gt;&lt;a href=&quot;#换位思考&quot; class=&quot;headerlink&quot; title=&quot;换位思考&quot;&gt;&lt;/a&gt;换位思考&lt;/h3&gt;&lt;p&gt;这无疑是求职乃至为人处事的大杀技。  &lt;/p&gt;
+&lt;p&gt;这话最早是听初中班主任说的，不是马云。  &lt;/p&gt;
+&lt;h4 id=&quot;How-To-Use&quot;&gt;&lt;a href=&quot;#How-To-Use&quot; class=&quot;headerlink&quot; title=&quot;How To Use&quot;&gt;&lt;/a&gt;How To Use&lt;/h4&gt;&lt;p&gt;If I were you, …&lt;/p&gt;
+&lt;h4 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h4&gt;&lt;p&gt;1.假装我是hr，要想我的简历不被pass，简历该怎么写。&lt;br&gt;2.假装我是面试官，要想通过，应该具备怎样的素质，或者是应该怎样表现。&lt;br&gt;3.假装我是hr，谈薪资，以及谈个人情况的时候应该怎么会说。  &lt;/p&gt;
+&lt;p&gt;最好是自己领悟，后面我也会分享一些自己的经验。  &lt;/p&gt;
+&lt;h2 id=&quot;干货&quot;&gt;&lt;a href=&quot;#干货&quot; class=&quot;headerlink&quot; title=&quot;干货&quot;&gt;&lt;/a&gt;干货&lt;/h2&gt;&lt;h3 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot; title=&quot;简历&quot;&gt;&lt;/a&gt;简历&lt;/h3&gt;&lt;h4 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h4&gt;&lt;p&gt;1.简历是给先hr看的，所以要先保证简历能过。&lt;br&gt;2.简历是面试的根据，所以不要造假，或者说不要给自己留坑。  &lt;/p&gt;
+&lt;h4 id=&quot;Tips&quot;&gt;&lt;a href=&quot;#Tips&quot; class=&quot;headerlink&quot; title=&quot;Tips&quot;&gt;&lt;/a&gt;Tips&lt;/h4&gt;&lt;h3 id=&quot;技术面试&quot;&gt;&lt;a href=&quot;#技术面试&quot; class=&quot;headerlink&quot; title=&quot;技术面试&quot;&gt;&lt;/a&gt;技术面试&lt;/h3&gt;&lt;p&gt;推荐书单&lt;/p&gt;
+&lt;h3 id=&quot;非技术面试&quot;&gt;&lt;a href=&quot;#非技术面试&quot; class=&quot;headerlink&quot; title=&quot;非技术面试&quot;&gt;&lt;/a&gt;非技术面试&lt;/h3&gt;&lt;p&gt;你为何从上一家公司离职？&lt;/p&gt;
+&lt;p&gt;个人经历，感兴趣的话，也可以接着往下看&lt;/p&gt;
+&lt;h2 id=&quot;面试经历&quot;&gt;&lt;a href=&quot;#面试经历&quot; class=&quot;headerlink&quot; title=&quot;面试经历&quot;&gt;&lt;/a&gt;面试经历&lt;/h2&gt;&lt;h3 id=&quot;15年实习生面试&quot;&gt;&lt;a href=&quot;#15年实习生面试&quot; class=&quot;headerlink&quot; title=&quot;15年实习生面试&quot;&gt;&lt;/a&gt;15年实习生面试&lt;/h3&gt;&lt;h3 id=&quot;15年大公司秋招&quot;&gt;&lt;a href=&quot;#15年大公司秋招&quot; class=&quot;headerlink&quot; title=&quot;15年大公司秋招&quot;&gt;&lt;/a&gt;15年大公司秋招&lt;/h3&gt;&lt;h3 id=&quot;15年小公司面试&quot;&gt;&lt;a href=&quot;#15年小公司面试&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h3&gt;&lt;h3 id=&quot;16年小公司春招&quot;&gt;&lt;a href=&quot;#16年小公司春招&quot; class=&quot;headerlink&quot; title=&quot;16年小公司春招&quot;&gt;&lt;/a&gt;16年小公司春招&lt;/h3&gt;&lt;h3 id=&quot;16年大公司补招&quot;&gt;&lt;a href=&quot;#16年大公司补招&quot; class=&quot;headerlink&quot; title=&quot;16年大公司补招&quot;&gt;&lt;/a&gt;16年大公司补招&lt;/h3&gt;</content>
     
     <summary type="html">
     
@@ -62,7 +96,7 @@
     <link href="http://blog.wyj.pub/2016/04/26/about-me/"/>
     <id>http://blog.wyj.pub/2016/04/26/about-me/</id>
     <published>2016-04-26T08:35:47.000Z</published>
-    <updated>2016-04-27T02:08:04.000Z</updated>
+    <updated>2016-04-27T03:10:02.000Z</updated>
     
     <content type="html">&lt;p&gt;我，翁英健，浙江衢州人，生于1994。&lt;br&gt;毕业于东北某林大，准确的说还没有毕业，现在大四。&lt;br&gt;接下来会是一个Java程序员。&lt;/p&gt;
 &lt;p&gt;介绍完毕   &lt;/p&gt;
@@ -82,11 +116,12 @@
 &lt;p&gt;总结：&lt;br&gt;一个寝室两降级的，其他人没降级那是运气好，抄到的多。&lt;br&gt;菜，大家还是一样的菜。  &lt;/p&gt;
 &lt;h3 id=&quot;后来没玩了&quot;&gt;&lt;a href=&quot;#后来没玩了&quot; class=&quot;headerlink&quot; title=&quot;后来没玩了&quot;&gt;&lt;/a&gt;后来没玩了&lt;/h3&gt;&lt;p&gt;后来，感觉罪孽深重，然后准备找个目标开始学习。&lt;br&gt;还是整天寝室度过，不过是用来学习了。  &lt;/p&gt;
 &lt;p&gt;早11点到晚上2点，感谢室友的不杀之恩。  &lt;/p&gt;
+&lt;h3 id=&quot;关于学习&quot;&gt;&lt;a href=&quot;#关于学习&quot; class=&quot;headerlink&quot; title=&quot;关于学习&quot;&gt;&lt;/a&gt;关于学习&lt;/h3&gt;&lt;p&gt;2014/11 先报的培训班，还不是因为说的工资诱人。&lt;br&gt;2014/12 自己开始学习，是真的学习，这中间心态也发生了很大的变化。&lt;br&gt;2015/01 一个月后培训班开课，新的环境，我假装当了一次学霸。&lt;br&gt;2015/09 回到杭州实习。&lt;br&gt;2016/04 回家休整。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      2014/12~2016/04 自认为还算牛逼的填坑之旅
+      2014/12~2016/04 自认为还算牛逼的填坑之路
     
     </summary>
     
@@ -98,16 +133,16 @@
     <link href="http://blog.wyj.pub/2016/04/26/hello-world/"/>
     <id>http://blog.wyj.pub/2016/04/26/hello-world/</id>
     <published>2016-04-26T08:04:22.000Z</published>
-    <updated>2016-04-26T08:47:07.000Z</updated>
+    <updated>2016-04-27T02:38:00.000Z</updated>
     
-    <content type="html">&lt;p&gt;最近辞去了工作，开始毕业前的最后一次休息。  &lt;/p&gt;
+    <content type="html">&lt;p&gt;最近辞去工作，开始毕业前的最后一次放松。  &lt;/p&gt;
 &lt;p&gt;换了电脑，换了环境，再加上对博客的之前内容以及主题都不是很满意，所以决定把博客也给换了。  &lt;/p&gt;
 &lt;p&gt;该博客的用途，现在的想法是用来记干货，，我尽量不写辣鸡。。。&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      &lt;p&gt;最近辞去了工作，开始毕业前的最后一次休息。  &lt;/p&gt;
+      &lt;p&gt;最近辞去工作，开始毕业前的最后一次放松。  &lt;/p&gt;
 &lt;p&gt;换了电脑，换了环境，再加上对博客的之前内容以及主题都不是很满意，所以决定把博客也给换了。  &lt;/p&gt;
 &lt;p&gt;该博客的用途，现在的想法是用来记干货，，我尽量不写辣鸡。。。&lt;/p&gt;
 
