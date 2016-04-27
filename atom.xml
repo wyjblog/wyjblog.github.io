@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wyj.pub/"/>
-  <updated>2016-04-26T08:45:26.000Z</updated>
+  <updated>2016-04-26T09:12:55.000Z</updated>
   <id>http://blog.wyj.pub/</id>
   
   <author>
@@ -20,9 +20,11 @@
     <link href="http://blog.wyj.pub/2016/04/26/nethunter-flash/"/>
     <id>http://blog.wyj.pub/2016/04/26/nethunter-flash/</id>
     <published>2016-04-26T08:42:42.000Z</published>
-    <updated>2016-04-26T08:45:26.000Z</updated>
+    <updated>2016-04-26T09:12:55.000Z</updated>
     
-    <content type="html"></content>
+    <content type="html">&lt;h3 id=&quot;刷入NetHunter&quot;&gt;&lt;a href=&quot;#刷入NetHunter&quot; class=&quot;headerlink&quot; title=&quot;刷入NetHunter&quot;&gt;&lt;/a&gt;刷入NetHunter&lt;/h3&gt;&lt;p&gt;Github地址：&lt;a href=&quot;https://github.com/offensive-security/kali-nethunter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/offensive-security/kali-nethunter&lt;/a&gt;&lt;br&gt;文档地址：&lt;a href=&quot;https://github.com/offensive-security/kali-nethunter/wiki&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/offensive-security/kali-nethunter/wiki&lt;/a&gt;  &lt;/p&gt;
+&lt;p&gt;现在想想，按着文档的来，也就简简单单的几步搞定。&lt;br&gt;算起来自己竟然刷了不下20次。  &lt;/p&gt;
+&lt;h3 id=&quot;添加外置无线网卡&quot;&gt;&lt;a href=&quot;#添加外置无线网卡&quot; class=&quot;headerlink&quot; title=&quot;添加外置无线网卡&quot;&gt;&lt;/a&gt;添加外置无线网卡&lt;/h3&gt;&lt;h3 id=&quot;破解Demo&quot;&gt;&lt;a href=&quot;#破解Demo&quot; class=&quot;headerlink&quot; title=&quot;破解Demo&quot;&gt;&lt;/a&gt;破解Demo&lt;/h3&gt;</content>
     
     <summary type="html">
     
@@ -51,6 +53,42 @@
     </summary>
     
       <category term="面试" scheme="http://blog.wyj.pub/categories/%E9%9D%A2%E8%AF%95/"/>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>About Me</title>
+    <link href="http://blog.wyj.pub/2016/04/26/about-me/"/>
+    <id>http://blog.wyj.pub/2016/04/26/about-me/</id>
+    <published>2016-04-26T08:35:47.000Z</published>
+    <updated>2016-04-27T01:28:50.000Z</updated>
+    
+    <content type="html">&lt;p&gt;我，翁英健，浙江衢州人，生于1994。&lt;br&gt;毕业于东北某林大，准确的说还没有毕业，现在大四。&lt;br&gt;接下来会是一个Java程序员。&lt;/p&gt;
+&lt;p&gt;介绍完毕   &lt;/p&gt;
+&lt;p&gt;感兴趣的可以接着往下看  &lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&quot;关于学校&quot;&gt;&lt;a href=&quot;#关于学校&quot; class=&quot;headerlink&quot; title=&quot;关于学校&quot;&gt;&lt;/a&gt;关于学校&lt;/h3&gt;&lt;p&gt;跟人说话经常被问到：&lt;br&gt;Q:“咦，你哪里人？”&lt;br&gt;A:“浙江人”&lt;br&gt;Q:“听你说话有点东北味…”&lt;br&gt;A:“在那边上的大学”&lt;br&gt;Q:“怎么跑那么老远上的大学？”&lt;/p&gt;
+&lt;p&gt;主要原因，还是高考。&lt;br&gt;比重点高了不到10分，不上重点似乎浪费，经“高人”指点，还可以蹭个211。&lt;br&gt;而我自己确表示随笔，因为我根本不懂也懒得去关注大学是干啥的。&lt;br&gt;至于专业，呵呵，计算机，我就是冲着当黑客去的。  &lt;/p&gt;
+&lt;h3 id=&quot;玩&quot;&gt;&lt;a href=&quot;#玩&quot; class=&quot;headerlink&quot; title=&quot;玩&quot;&gt;&lt;/a&gt;玩&lt;/h3&gt;&lt;h4 id=&quot;听说是这样的&quot;&gt;&lt;a href=&quot;#听说是这样的&quot; class=&quot;headerlink&quot; title=&quot;听说是这样的&quot;&gt;&lt;/a&gt;听说是这样的&lt;/h4&gt;&lt;p&gt;大学，听上去跟初中、高中一样，也是一个学习的地方。&lt;br&gt;但是听说大学就是玩。  &lt;/p&gt;
+&lt;h4 id=&quot;买书包的故事&quot;&gt;&lt;a href=&quot;#买书包的故事&quot; class=&quot;headerlink&quot; title=&quot;买书包的故事&quot;&gt;&lt;/a&gt;买书包的故事&lt;/h4&gt;&lt;p&gt;刚到学校。&lt;br&gt;“买书包干嘛，大学不就是玩的吗？”&lt;br&gt;没买。&lt;br&gt;等到开学书发下来以后，又屁颠屁颠去买了书包。  &lt;/p&gt;
+&lt;h4 id=&quot;并没有的玩&quot;&gt;&lt;a href=&quot;#并没有的玩&quot; class=&quot;headerlink&quot; title=&quot;并没有的玩&quot;&gt;&lt;/a&gt;并没有的玩&lt;/h4&gt;&lt;p&gt;大学的课还是蛮多的，虽然现在已经忘了都有哪些课。&lt;br&gt;当时的想法是：卧槽，这么多课，还让我怎么我玩！  &lt;/p&gt;
+&lt;p&gt;大一上半学期是没怎么玩，大多时间还是学习。&lt;br&gt;一来没网，二来胆小。  &lt;/p&gt;
+&lt;p&gt;我也荣幸的成为大一上半学期全寝唯一一个没挂科的。&lt;br&gt;这靠的，完全就是高中的惯性。  &lt;/p&gt;
+&lt;h4 id=&quot;挤一挤，玩的时间肯定有的&quot;&gt;&lt;a href=&quot;#挤一挤，玩的时间肯定有的&quot; class=&quot;headerlink&quot; title=&quot;挤一挤，玩的时间肯定有的&quot;&gt;&lt;/a&gt;挤一挤，玩的时间肯定有的&lt;/h4&gt;&lt;p&gt;难怪没得玩，原来是姿势不对。&lt;br&gt;后来学会了翘课。  &lt;/p&gt;
+&lt;p&gt;然后大二大三就基本在寝室度过了。  &lt;/p&gt;
+&lt;h4 id=&quot;关于挂科&quot;&gt;&lt;a href=&quot;#关于挂科&quot; class=&quot;headerlink&quot; title=&quot;关于挂科&quot;&gt;&lt;/a&gt;关于挂科&lt;/h4&gt;&lt;p&gt;出来混，迟早是要还的。  &lt;/p&gt;
+&lt;p&gt;大二大三每个学期都提前回学校，你懂的。&lt;br&gt;大四实习还坐飞机回去考试，臭坑还得自己填。  &lt;/p&gt;
+&lt;p&gt;总结：&lt;br&gt;一个寝室两降级的，其他人没降级那是运气好，抄到的多。&lt;br&gt;菜，大家还是一样的菜。  &lt;/p&gt;
+&lt;h3 id=&quot;后来没玩了&quot;&gt;&lt;a href=&quot;#后来没玩了&quot; class=&quot;headerlink&quot; title=&quot;后来没玩了&quot;&gt;&lt;/a&gt;后来没玩了&lt;/h3&gt;&lt;p&gt;后来，感觉罪孽深重，然后准备找个目标开始学习。&lt;br&gt;还是整天寝室度过，不过是用来学习了。  &lt;/p&gt;
+&lt;p&gt;早11点到晚上2点，感谢室友的不杀之恩。  &lt;/p&gt;
+</content>
+    
+    <summary type="html">
+    
+      2014/12~2016/04 自认为还算牛逼的填坑之旅
+    
+    </summary>
     
     
   </entry>
