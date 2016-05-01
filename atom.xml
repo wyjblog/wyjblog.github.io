@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://blog.wyj.pub/"/>
-  <updated>2016-04-26T09:12:55.000Z</updated>
+  <updated>2016-05-01T05:54:58.000Z</updated>
   <id>http://blog.wyj.pub/</id>
   
   <author>
@@ -14,28 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>NetHunter</title>
-    <link href="http://blog.wyj.pub/2016/04/26/nethunter-flash/"/>
-    <id>http://blog.wyj.pub/2016/04/26/nethunter-flash/</id>
-    <published>2016-04-26T08:42:42.000Z</published>
-    <updated>2016-04-26T09:12:55.000Z</updated>
-    
-    <content type="html">&lt;h3 id=&quot;刷入NetHunter&quot;&gt;&lt;a href=&quot;#刷入NetHunter&quot; class=&quot;headerlink&quot; title=&quot;刷入NetHunter&quot;&gt;&lt;/a&gt;刷入NetHunter&lt;/h3&gt;&lt;p&gt;Github地址：&lt;a href=&quot;https://github.com/offensive-security/kali-nethunter&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/offensive-security/kali-nethunter&lt;/a&gt;&lt;br&gt;文档地址：&lt;a href=&quot;https://github.com/offensive-security/kali-nethunter/wiki&quot; target=&quot;_blank&quot; rel=&quot;external&quot;&gt;https://github.com/offensive-security/kali-nethunter/wiki&lt;/a&gt;  &lt;/p&gt;
-&lt;p&gt;现在想想，按着文档的来，也就简简单单的几步搞定。&lt;br&gt;算起来自己竟然刷了不下20次。  &lt;/p&gt;
-&lt;h3 id=&quot;添加外置无线网卡&quot;&gt;&lt;a href=&quot;#添加外置无线网卡&quot; class=&quot;headerlink&quot; title=&quot;添加外置无线网卡&quot;&gt;&lt;/a&gt;添加外置无线网卡&lt;/h3&gt;&lt;h3 id=&quot;破解Demo&quot;&gt;&lt;a href=&quot;#破解Demo&quot; class=&quot;headerlink&quot; title=&quot;破解Demo&quot;&gt;&lt;/a&gt;破解Demo&lt;/h3&gt;</content>
-    
-    <summary type="html">
-    
-      NetHunter环境搭建
-    
-    </summary>
-    
-      <category term="hacker" scheme="http://blog.wyj.pub/categories/hacker/"/>
-    
-    
-  </entry>
   
   <entry>
     <title>换位思考看面试</title>
