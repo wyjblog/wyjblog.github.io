@@ -38,87 +38,47 @@
   </entry>
   
   <entry>
-    <title>谈谈面试</title>
+    <title>换位思考看面试</title>
     <link href="http://blog.wyj.pub/2016/04/26/interview-2016/"/>
     <id>http://blog.wyj.pub/2016/04/26/interview-2016/</id>
     <published>2016-04-26T08:38:47.000Z</published>
-    <updated>2016-04-27T09:14:03.000Z</updated>
+    <updated>2016-05-01T05:54:58.000Z</updated>
     
-    <content type="html">&lt;h2 id=&quot;理论部分&quot;&gt;&lt;a href=&quot;#理论部分&quot; class=&quot;headerlink&quot; title=&quot;理论部分&quot;&gt;&lt;/a&gt;理论部分&lt;/h2&gt;&lt;h3 id=&quot;光环&quot;&gt;&lt;a href=&quot;#光环&quot; class=&quot;headerlink&quot; title=&quot;光环&quot;&gt;&lt;/a&gt;光环&lt;/h3&gt;&lt;p&gt;“程序员是最不靠爹的职业”，的确是这样。  &lt;/p&gt;
-&lt;p&gt;但是我之前认为的“程序员完全靠技术吃饭”，现在看来，也是极其不靠谱的。  &lt;/p&gt;
-&lt;p&gt;光环是很大一个因素，决定着简历是否能通过、面试官心里的定位、薪资甚至是在新公司的说服力。  &lt;/p&gt;
-&lt;p&gt;就算不当程序员，创业去了，拉投资的时候投资人还会看学历、经历等，再综合评估这个人是否靠谱。  &lt;/p&gt;
-&lt;p&gt;就连以后出去吹牛逼的时候，光环都是有用的。&lt;/p&gt;
-&lt;h4 id=&quot;学历光环&quot;&gt;&lt;a href=&quot;#学历光环&quot; class=&quot;headerlink&quot; title=&quot;学历光环&quot;&gt;&lt;/a&gt;学历光环&lt;/h4&gt;&lt;p&gt;主要针对应届生  &lt;/p&gt;
-&lt;p&gt;本科/硕士有区别，名校/非名校有区别。  &lt;/p&gt;
-&lt;p&gt;已经过去的，由它。  &lt;/p&gt;
-&lt;h4 id=&quot;经验光环&quot;&gt;&lt;a href=&quot;#经验光环&quot; class=&quot;headerlink&quot; title=&quot;经验光环&quot;&gt;&lt;/a&gt;经验光环&lt;/h4&gt;&lt;p&gt;应届毕业生和有工作经验的人就是不一样的。&lt;br&gt;这是应届毕业生面试小公司最蛋疼的一点，我自己也深有体会。&lt;br&gt;自以为一年多的努力胜过两年工作经验的同行，然后现实很残酷，你只能“被认为“不如他们。  &lt;/p&gt;
-&lt;p&gt;公司的原因：无法看出一个人的能力，那么就从工作经验去衡量。&lt;br&gt;这无疑是一种保险的方法。&lt;br&gt;但同样工作经验的人，每天下班后玩游戏还是充电，差距也是很大的。  &lt;/p&gt;
-&lt;p&gt;自己的原因：毕竟应届生，等多年以后再回来看自知孰是孰非。&lt;br&gt;也许是我的经历比较特殊，没毕业出去实习，加上拼命的学习。&lt;br&gt;当然，更可能是我不知天高地厚。  &lt;/p&gt;
-&lt;h4 id=&quot;大公司光环&quot;&gt;&lt;a href=&quot;#大公司光环&quot; class=&quot;headerlink&quot; title=&quot;大公司光环&quot;&gt;&lt;/a&gt;大公司光环&lt;/h4&gt;&lt;p&gt;大公司出来的确会不一样。&lt;br&gt;多年以后，就跟当年应届生看学历一样。  &lt;/p&gt;
-&lt;p&gt;反正以后我的光环不会太差，whatever&lt;/p&gt;
-&lt;h3 id=&quot;需求分析&quot;&gt;&lt;a href=&quot;#需求分析&quot; class=&quot;headerlink&quot; title=&quot;需求分析&quot;&gt;&lt;/a&gt;需求分析&lt;/h3&gt;&lt;p&gt;招聘就好比是买卖，我们要做的就是想办法把自己‘卖’出去。  &lt;/p&gt;
-&lt;p&gt;有的单位穷，想要买一批廉价的，能干活就行的程序员。&lt;br&gt;有的单位也穷，但是讲点情怀，想要高价买几个能力强的程序员。&lt;br&gt;有的单位有钱，经常高价批发程序员，所以制度完善，层层选拔。   &lt;/p&gt;
-&lt;p&gt;所以说，看需求。&lt;br&gt;你那么牛逼，可是人家不需要，人家就差一个会写代码的了，会写代码就成。  &lt;/p&gt;
-&lt;h4 id=&quot;小练习&quot;&gt;&lt;a href=&quot;#小练习&quot; class=&quot;headerlink&quot; title=&quot;小练习&quot;&gt;&lt;/a&gt;小练习&lt;/h4&gt;&lt;p&gt;某用人单位缺少程序员战斗力100点，现有以下属性的程序员三种，其中应届生的普通与牛逼难以分辨，请分配最好的方案。    &lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;6&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;普通应届生.工资 = 800&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;牛逼应届生.工资 = 1100&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;经验程序员.工资 = 1200&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;普通应届生.能力 = 60&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;牛逼应届生.能力 = 100&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;经验程序员.能力 = 90&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;要我选？&lt;br&gt;如果是招人是我的工作，我会花1200去招一个90战斗力的老程序员。  &lt;/li&gt;
-&lt;li&gt;为什么？&lt;br&gt;风险低。&lt;/li&gt;
-&lt;li&gt;剩下的10点怎么补？&lt;br&gt;当然是加班啦！（自带高级黑）  &lt;/li&gt;
-&lt;/ul&gt;
-&lt;h4 id=&quot;需求小结&quot;&gt;&lt;a href=&quot;#需求小结&quot; class=&quot;headerlink&quot; title=&quot;需求小结&quot;&gt;&lt;/a&gt;需求小结&lt;/h4&gt;&lt;p&gt;合适的人找合适的工作。  &lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;你的薪资 != 你的价值&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;你的薪资 == 你对公司的作用&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;h3 id=&quot;换位思考&quot;&gt;&lt;a href=&quot;#换位思考&quot; class=&quot;headerlink&quot; title=&quot;换位思考&quot;&gt;&lt;/a&gt;换位思考&lt;/h3&gt;&lt;p&gt;这无疑是求职乃至为人处事的大杀技。  &lt;/p&gt;
-&lt;p&gt;这话最早是听初中班主任说的，不是马云。  &lt;/p&gt;
-&lt;h4 id=&quot;How-To-Use&quot;&gt;&lt;a href=&quot;#How-To-Use&quot; class=&quot;headerlink&quot; title=&quot;How To Use&quot;&gt;&lt;/a&gt;How To Use&lt;/h4&gt;&lt;p&gt;If I were you, …&lt;/p&gt;
-&lt;h4 id=&quot;Example&quot;&gt;&lt;a href=&quot;#Example&quot; class=&quot;headerlink&quot; title=&quot;Example&quot;&gt;&lt;/a&gt;Example&lt;/h4&gt;&lt;p&gt;1.假装我是hr，怎么样的简历不会被pass，甚至说怎么样的简历会眼前一亮。&lt;br&gt;2.假装我是面试官，具备怎样素质的人我会给他通过，甚至会跟上级说他的好话。&lt;br&gt;3.假装我是hr，谈薪资，以及谈个人情况的时候，什么情况会让我不再考虑这个人。  &lt;/p&gt;
-&lt;p&gt;自己领悟，后面也会分享一些自己的经验。  &lt;/p&gt;
-&lt;h2 id=&quot;干货&quot;&gt;&lt;a href=&quot;#干货&quot; class=&quot;headerlink&quot; title=&quot;干货&quot;&gt;&lt;/a&gt;干货&lt;/h2&gt;&lt;h3 id=&quot;简历&quot;&gt;&lt;a href=&quot;#简历&quot; class=&quot;headerlink&quot; title=&quot;简历&quot;&gt;&lt;/a&gt;简历&lt;/h3&gt;&lt;h4 id=&quot;Overview&quot;&gt;&lt;a href=&quot;#Overview&quot; class=&quot;headerlink&quot; title=&quot;Overview&quot;&gt;&lt;/a&gt;Overview&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;真实的经历：&lt;/strong&gt;&lt;/p&gt;
-&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;Q:你有什么要问的吗？&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;A:能不能评价一下我？&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;Q:看你的简历很不错，现在看来，也还行，跟杭电的学生也差不多，中等...偏上吧。&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
-&lt;p&gt;&lt;strong&gt;基本原则：&lt;/strong&gt;  &lt;/p&gt;
+    <content type="html">&lt;p&gt;2015年3月至2016年4月，陆陆续续经历了数十场面试。&lt;br&gt;现在看来，最核心的技巧可用“换位思考”四字概括。  &lt;/p&gt;
+&lt;p&gt;“换位思考”最早是初中班主任跟我们说的，潘俊民，非常严格的一个老师，现在想来还是害怕。  &lt;/p&gt;
+&lt;p&gt; 下文是主要以“换位思考”为出发点，自己在求职中的一些感受。  &lt;/p&gt;
+&lt;h3 id=&quot;专业技能还得过关&quot;&gt;&lt;a href=&quot;#专业技能还得过关&quot; class=&quot;headerlink&quot; title=&quot;专业技能还得过关&quot;&gt;&lt;/a&gt;专业技能还得过关&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;用人单位：需要专业技能过关的人才  &lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;所以这一点是最重要的，但是简历怎么写、需要哪些基本技能、面试中常问的问题这些都不再赘述。  &lt;/p&gt;
+&lt;p&gt;只提醒一点：面试中很多看似很难的问题，其实书中都有写，推荐《大型网站系统与Java中间件实践》这本书。&lt;/p&gt;
+&lt;h3 id=&quot;光环效应&quot;&gt;&lt;a href=&quot;#光环效应&quot; class=&quot;headerlink&quot; title=&quot;光环效应&quot;&gt;&lt;/a&gt;光环效应&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;Hr：希望看到你牛逼的学历/公司/项目&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;之前我也抱怨过他们只青睐于名校、名企出来的，现在似乎已经找到了答案。  &lt;/p&gt;
+&lt;p&gt;假定：&lt;/p&gt;
+&lt;figure class=&quot;highlight plain&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;2&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;3&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;4&lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;5&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;名校占比20%  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;普通院校占比80%  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;名校中金子占比50%    &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;普通院校金子占比10%  &lt;/span&gt;&lt;br&gt;&lt;span class=&quot;line&quot;&gt;而你恰好是普通院校的10%&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;&lt;/figure&gt;
+&lt;p&gt;招人也是讲究成本的，以降低时间成本起见。   &lt;/p&gt;
+&lt;p&gt;全要：找到1金耗时5.56(不知道我算的对不对)&lt;br&gt;只要名校：找到1金耗时2&lt;br&gt;只要普通院校：找到1金耗时10  &lt;/p&gt;
+&lt;p&gt;用人单位要的是金子，而不是你。  &lt;/p&gt;
+&lt;h3 id=&quot;做好准备&quot;&gt;&lt;a href=&quot;#做好准备&quot; class=&quot;headerlink&quot; title=&quot;做好准备&quot;&gt;&lt;/a&gt;做好准备&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;没有准备，说明你诚意不够&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;自我介绍，项目要点/难点 能准备的、背的都弄下吧。   &lt;/p&gt;
+&lt;p&gt;脑子里准备2个小人：一个是自己，一个是面试官，自己模拟面试吧。  &lt;/p&gt;
+&lt;h3 id=&quot;死皮赖脸&quot;&gt;&lt;a href=&quot;#死皮赖脸&quot; class=&quot;headerlink&quot; title=&quot;死皮赖脸&quot;&gt;&lt;/a&gt;死皮赖脸&lt;/h3&gt;&lt;p&gt;是的，你还可以不要脸。  &lt;/p&gt;
 &lt;ol&gt;
-&lt;li&gt;不被Hr（非技术人员）挂掉。  &lt;/li&gt;
-&lt;li&gt;不给面试的时候留坑（不造假）。  &lt;/li&gt;
+&lt;li&gt;简历可能无法通过，可以找人内推，只要够不要脸，就肯定能找到人。  &lt;/li&gt;
+&lt;li&gt;笔试可能无法通过，可以霸面（当然有的公司不支持），所以某人开发出了作弊系统。  &lt;/li&gt;
+&lt;li&gt;面试可能差点气候，可以以自己的方式表达“我真的很想来”，甚至你可以先找出对方产品的问题/漏洞，以及自己的解决方案。  &lt;/li&gt;
 &lt;/ol&gt;
-&lt;h4 id=&quot;Tips&quot;&gt;&lt;a href=&quot;#Tips&quot; class=&quot;headerlink&quot; title=&quot;Tips&quot;&gt;&lt;/a&gt;Tips&lt;/h4&gt;&lt;ol&gt;
-&lt;li&gt;简洁：我用&lt;code&gt;MarkDown&lt;/code&gt;写的，勉强还能装下逼，但是到现在，我的简历也是一页半。    &lt;/li&gt;
-&lt;li&gt;小问题：错别字，专业名词大小写等。  &lt;/li&gt;
-&lt;li&gt;内容：可以稍微吹下牛逼，但是吹出去的牛逼在面试的时候都得还。  &lt;/li&gt;
-&lt;li&gt;垃圾信息：照片就用放了，自我评价也懒得写了，搭不上边的经历也不要往上放。  &lt;/li&gt;
-&lt;li&gt;亮点：Blog/Github，牛逼的经历、项目、获奖。所以说牛逼的简历还得靠牛逼的能力支撑。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h3 id=&quot;技术面试&quot;&gt;&lt;a href=&quot;#技术面试&quot; class=&quot;headerlink&quot; title=&quot;技术面试&quot;&gt;&lt;/a&gt;技术面试&lt;/h3&gt;&lt;p&gt;&lt;strong&gt;需求分析：&lt;/strong&gt;面试官在选择未来的同事/下属&lt;br&gt;&lt;strong&gt;换位思考：&lt;/strong&gt;技术差，不要；理解能力差，不要；表达能力差，不要；说话让人不舒服，不要。  但是你有某方面很牛逼，如果我们需要，那就考虑，如果我们不需要，还是不要（你牛逼你的，我又用不到）。    &lt;/p&gt;
-&lt;h4 id=&quot;必备的技能&quot;&gt;&lt;a href=&quot;#必备的技能&quot; class=&quot;headerlink&quot; title=&quot;必备的技能&quot;&gt;&lt;/a&gt;必备的技能&lt;/h4&gt;&lt;p&gt;像Java开发，稍微谈一些技能。&lt;/p&gt;
-&lt;p&gt;给个需求能否自己实现？数据库、程序设计。&lt;br&gt;能否做好，效率如何？数据结构的选择与使用。&lt;br&gt;如何应为未来的扩展？设计原则、设计模式Balabal…&lt;br&gt;并发问题？包括对操作系统、线程的认知，通用的解决方案（如各种锁），以及处理方案的选择，像缓存，队列。  &lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;举个例子：&lt;/strong&gt;100件商品，如何控制不超卖。&lt;br&gt;初级解决方案，可以用数据库锁。&lt;br&gt;再找到初级方案的瓶颈，改用其它解决方案，如缓存、队列。&lt;br&gt;想想有没有奇淫的技巧，反正我是比较愚钝，所以只能多看书，窃用人家的解决方案。  &lt;/p&gt;
-&lt;h3 id=&quot;非技术面试&quot;&gt;&lt;a href=&quot;#非技术面试&quot; class=&quot;headerlink&quot; title=&quot;非技术面试&quot;&gt;&lt;/a&gt;非技术面试&lt;/h3&gt;&lt;p&gt;为何从上一家公司离职？&lt;/p&gt;
-&lt;p&gt;以下是个人经历，感兴趣的话，也可以接着往下看&lt;/p&gt;
-&lt;h2 id=&quot;面试经历&quot;&gt;&lt;a href=&quot;#面试经历&quot; class=&quot;headerlink&quot; title=&quot;面试经历&quot;&gt;&lt;/a&gt;面试经历&lt;/h2&gt;&lt;h3 id=&quot;15年实习生面试&quot;&gt;&lt;a href=&quot;#15年实习生面试&quot; class=&quot;headerlink&quot; title=&quot;15年实习生面试&quot;&gt;&lt;/a&gt;15年实习生面试&lt;/h3&gt;&lt;p&gt;当时的情况是这样的：刚学习才3个月，从Java到Android，面试的是Android开发，阿里和腾讯两家。  &lt;/p&gt;
-&lt;p&gt;当然是两场的一面都没能通过。&lt;br&gt;用&lt;code&gt;不知天高地厚&lt;/code&gt;来形容最适合不过，不仅自己菜，面试完了还抱怨面试官菜。  &lt;/p&gt;
-&lt;h3 id=&quot;15年大公司秋招&quot;&gt;&lt;a href=&quot;#15年大公司秋招&quot; class=&quot;headerlink&quot; title=&quot;15年大公司秋招&quot;&gt;&lt;/a&gt;15年大公司秋招&lt;/h3&gt;&lt;p&gt;当时的想法很简单，回杭州。&lt;br&gt;所以就试了阿里（蘑菇街、网易的简历直接就挂了）  &lt;/p&gt;
-&lt;p&gt;阿里走的是内推，也就是传说中的等电话。&lt;br&gt;一面不会的最多，印象最深的是堆排序，之前春招的时候被问过，没答上来，后来会了之后又忘了。所以被提醒了“去年春招的时候你就没答上来这个问题，现在怎么还不会。”&lt;br&gt;一面后整理各种不会的问题，去各个击破。&lt;br&gt;二面不会的少了一些，也是全部整理起来搞懂。&lt;br&gt;三面感觉还行，死因至今不明，到底是我太菜还是赶上了拥抱变化（归根结底还是太菜）。  &lt;/p&gt;
-&lt;p&gt;其中面试时候的很多问题，看似考察基本功个人的思维，其实在一些大型分布式网站的书上都有说到。  &lt;/p&gt;
-&lt;h3 id=&quot;15年小公司面试&quot;&gt;&lt;a href=&quot;#15年小公司面试&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h3&gt;&lt;p&gt;正式offer只有校招的公司有，小公司在这个时候发的都是实习或者社招的offer 。&lt;/p&gt;
-&lt;p&gt;也许是招实习生的原因，也许是自己能力还不错，也许是实习生不谈薪资啥的，所以这个环节很顺利。  &lt;/p&gt;
-&lt;h3 id=&quot;16年小公司面试&quot;&gt;&lt;a href=&quot;#16年小公司面试&quot; class=&quot;headerlink&quot; title=&quot;16年小公司面试&quot;&gt;&lt;/a&gt;16年小公司面试&lt;/h3&gt;&lt;p&gt;传说中的小公司工资比大公司高，永远也只是传说。  &lt;/p&gt;
-&lt;h3 id=&quot;16年大公司补招&quot;&gt;&lt;a href=&quot;#16年大公司补招&quot; class=&quot;headerlink&quot; title=&quot;16年大公司补招&quot;&gt;&lt;/a&gt;16年大公司补招&lt;/h3&gt;&lt;p&gt;16届的最后一波机会，说实话，压力真的非常大。 &lt;/p&gt;
-&lt;p&gt;大到什么程度？  &lt;/p&gt;
-&lt;ol&gt;
-&lt;li&gt;怕简历被筛，找人内推。&lt;/li&gt;
-&lt;li&gt;怕笔试被挂，自己开发了笔试作弊系统，其实自己基础真的有些差。&lt;/li&gt;
-&lt;li&gt;怕面试被挂，面试前挖掘好目标公司app的漏洞。  &lt;/li&gt;
-&lt;/ol&gt;
-&lt;h4 id=&quot;总结4：有备而战&quot;&gt;&lt;a href=&quot;#总结4：有备而战&quot; class=&quot;headerlink&quot; title=&quot;总结4：有备而战&quot;&gt;&lt;/a&gt;总结4：有备而战&lt;/h4&gt;&lt;h3 id=&quot;面试的一些总结&quot;&gt;&lt;a href=&quot;#面试的一些总结&quot; class=&quot;headerlink&quot; title=&quot;面试的一些总结&quot;&gt;&lt;/a&gt;面试的一些总结&lt;/h3&gt;&lt;h4 id=&quot;15年实习生面试-1&quot;&gt;&lt;a href=&quot;#15年实习生面试-1&quot; class=&quot;headerlink&quot; title=&quot;15年实习生面试&quot;&gt;&lt;/a&gt;15年实习生面试&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;练胆&lt;/strong&gt;&lt;br&gt;大学的社团活动啥都没参加过，就是因为听说要面试，所以更希望待在寝室里，玩游戏。主要还是害怕…&lt;br&gt;现在不一样了，因为迟早要面试的，所以趁早出来见见世面。&lt;/p&gt;
-&lt;h4 id=&quot;15年小公司面试-1&quot;&gt;&lt;a href=&quot;#15年小公司面试-1&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;查漏补缺&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&quot;15年小公司面试-2&quot;&gt;&lt;a href=&quot;#15年小公司面试-2&quot; class=&quot;headerlink&quot; title=&quot;15年小公司面试&quot;&gt;&lt;/a&gt;15年小公司面试&lt;/h4&gt;&lt;h4 id=&quot;16年小公司面试-1&quot;&gt;&lt;a href=&quot;#16年小公司面试-1&quot; class=&quot;headerlink&quot; title=&quot;16年小公司面试&quot;&gt;&lt;/a&gt;16年小公司面试&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;没有光环去小公司，简直找虐&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&quot;16年大公司补招-1&quot;&gt;&lt;a href=&quot;#16年大公司补招-1&quot; class=&quot;headerlink&quot; title=&quot;16年大公司补招&quot;&gt;&lt;/a&gt;16年大公司补招&lt;/h4&gt;&lt;p&gt;&lt;strong&gt;压力太大，秋招必须努力&lt;/strong&gt;&lt;/p&gt;
-&lt;h4 id=&quot;小公司与大公司&quot;&gt;&lt;a href=&quot;#小公司与大公司&quot; class=&quot;headerlink&quot; title=&quot;小公司与大公司&quot;&gt;&lt;/a&gt;小公司与大公司&lt;/h4&gt;&lt;p&gt;相比小公司而言，大公司更喜欢问基础。&lt;br&gt;需求同样是招到能用的人：&lt;br&gt;大公司需要找基础好的，因为处理的业务性能方面要求更高，而这些都会回到数据结构、数据库、操作系统的问题上。&lt;br&gt;小公司需要找会干活的，因为业务多却不精，用好Spring、做过一些项目，快速完成需求是重点。  &lt;/p&gt;
+&lt;h3 id=&quot;最后&quot;&gt;&lt;a href=&quot;#最后&quot; class=&quot;headerlink&quot; title=&quot;最后&quot;&gt;&lt;/a&gt;最后&lt;/h3&gt;&lt;p&gt;欢迎留言，期待交流。  &lt;/p&gt;
+&lt;p&gt;预祝你走向“人生巅峰”，当然，这只是开始…&lt;/p&gt;
 </content>
     
     <summary type="html">
     
-      2015/03 ~ 2016/04 面试的历程
+      2015/03 ~ 2016/04 面试让我明白的道理
     
     </summary>
     
